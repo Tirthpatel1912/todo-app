@@ -1,0 +1,17 @@
+.todo-header {
+  font-weight: 700;
+  text-align: center;
+  margin: 20px;
+}
+
+input {
+  width: 100%;
+}
+
+.inbut {
+  min-width: 50px;
+}
+
+.marginown {
+  margin: 10px;
+}
